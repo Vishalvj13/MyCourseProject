@@ -1,0 +1,19 @@
+/* .footer {
+    position:relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    z-index: 2;
+} */
+
+.footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+  }

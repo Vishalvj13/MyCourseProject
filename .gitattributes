@@ -1,0 +1,5 @@
+*.jsx linguist-detectable=true
+*.js linguist-detectable=true
+*.tsx linguist-detectable=true
+Frontend/* linguist-detectable=true
+

@@ -1,12 +1,3 @@
-:contentReference[oaicite:4]{index=4}
-
-- **Detailed Documentation:** :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
-
-**2. Enhancing the README File:**
-
-A well-structured `README.md` can significantly improve the accessibility and professionalism of your project. Here's a suggested template:
-
-```markdown
 # Hospital Management System
 
 This Hospital Management System is designed following SOLID design principles, facilitating efficient hospital operations and communication among staff. The project comprises a React.js frontend and a Spring Boot backend, with MySQL handling data storage.
@@ -51,4 +42,3 @@ This Hospital Management System is designed following SOLID design principles, f
 1. Navigate to the `Backend` directory:
  ```bash
  cd Backend
-
